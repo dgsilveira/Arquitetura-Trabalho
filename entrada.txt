@@ -1,0 +1,3 @@
+add t0 t2 t2
+sub 
+addi t0 t2
